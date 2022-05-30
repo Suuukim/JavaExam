@@ -1,4 +1,4 @@
-package koreait.day0127;
+package backjoon;
 
 public class Main_10718 {
 	public static void main(String[] args) {

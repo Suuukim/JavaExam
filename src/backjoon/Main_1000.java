@@ -1,4 +1,4 @@
-package koreait.day0127;
+package backjoon;
 
 import java.util.Scanner;
 
